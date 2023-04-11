@@ -126,13 +126,6 @@ html {
     transition: all 0.3s ease-in-out;
     position: relative;
   }
-  
-  .img_perfil:hover {
-    transform: rotate(360deg) scale(1.1);
-    transition: all 0.5s ease-in-out;
-  }
-  
-
 /*  Menu  Mobile  */
 .menu-btn {
     color: #fff;
